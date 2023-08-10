@@ -8,6 +8,7 @@
 - Realizar projetos com mobile-first;
 - Uso de media queries;
 - Padronização e organização dos estilos css;
+- Utilização do SwiperJS para fazer um carrosel.
 
 ---
 
